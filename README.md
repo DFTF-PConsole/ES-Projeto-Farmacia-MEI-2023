@@ -14,9 +14,6 @@ Engenharia de Serviços (ES) - 2022/2023 <br />
 
 ### [`Meta 1/`](Meta%201/)
 - [Enunciado](Meta%201/InforEstudante/TP%202022-2023%20(2S)%20-%20Part%201.pdf)
-
-<br />
-
 - [Persona CASO](Meta%201/Persona_CASO.pdf)
 - [Persona INFA](Meta%201/Persona_INFA.pdf)
 - [Stakeholder Map](Meta%201/Stakeholder_Map.pdf)
