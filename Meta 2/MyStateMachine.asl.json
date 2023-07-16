@@ -1,0 +1,21 @@
+{
+  "Comment": "Combined Step Functions example",
+  "StartAt": "FirstState",
+  "States": {
+    "FirstState": {
+      "Type": "Pass",
+      "Next": "InvokeActivity"
+    },
+    "InvokeActivity": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:us-west-2:834485211981:activity:3",
+      "TimeoutSeconds": 3300,
+      "ResultPath": "$.ActivityResult",
+      "Next": "SecondState"
+    },
+    "SecondState": {
+      "Type": "Pass",
+      "End": true
+    }
+  }
+}
