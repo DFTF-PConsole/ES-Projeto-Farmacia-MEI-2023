@@ -13,12 +13,16 @@ Engenharia de Serviços (ES) - 2022/2023 <br />
 ## Trabalho Prático: Farmácia
 
 ### [`Meta 1/`](Meta%201/)
+
+#### [`InforEstudante/`](Meta%201/InforEstudante/)
 - [Enunciado](Meta%201/InforEstudante/TP%202022-2023%20(2S)%20-%20Part%201.pdf)
-- [Persona CASO](Meta%201/Persona_CASO.pdf)
-- [Persona INFA](Meta%201/Persona_INFA.pdf)
-- [Stakeholder Map](Meta%201/Stakeholder_Map.pdf)
-- [Journey Map](Meta%201/JourneyMap_AllInOne.pdf)
-- [Expectation Map](Meta%201/Expectation%20Map.pdf)
+
+#### [`ServiceDesign/`](Meta%201/ServiceDesign/)
+- [Persona CASO](Meta%201/ServiceDesign/Persona_CASO.pdf)
+- [Persona INFA](Meta%201/ServiceDesign/Persona_INFA.pdf)
+- [Stakeholder Map](Meta%201/ServiceDesign/Stakeholder_Map.pdf)
+- [Journey Map](Meta%201/ServiceDesign/JourneyMap_AllInOne.pdf)
+- [Expectation Map](Meta%201/ServiceDesign/Expectation%20Map.pdf)
 
 <br />
 
